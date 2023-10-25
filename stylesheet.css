@@ -1,0 +1,99 @@
+body {
+    background-image: linear-gradient(skyblue, lavender);
+    background-repeat: no-repeat;
+  }
+.atop {
+  text-decoration: none;
+  color: ;
+  border: 1px solid;
+  padding: 10px;
+  margin: 8px;
+  font-size: 20px;
+  border-radius: 8px;
+  box-shadow: 3px 3px;
+}
+a:hover {
+  background-color: #FBE418;
+}
+.top {
+  float: right;
+}
+.logo {
+  width: 150px;
+  border-radius: 300px;
+  border: 8px solid;
+}
+.marg {
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-top: 50px;
+  border: 1px solid;
+  border-radius: 8px;
+}
+.title {
+  font-family: Sans-Serif;
+  font-size: 50px;
+  float: right;
+  margin-top: -80px;
+}
+.border1 {
+  border: 1px solid;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 8px;
+  padding-bottom: 30px;
+  box-shadow: 6px 6px;
+}
+.insideborder1 {
+  padding-left: 12px;
+}
+.contact {
+  text-decoration: none;
+  color: black;
+  border: 1px solid;
+  padding: 5px;
+  padding-inline: 15px;
+  font-size: 15px;
+  border-radius: 8px;
+  margin: 10px;
+  box-shadow: 3px 3px;
+
+}
+.dom {
+  width: 150px;
+  float: right;
+  border-radius: 300px;
+  padding: 8px;
+  margin: 10px;
+}
+.port, .about, .con {
+  padding: 10px;
+  font-size: 50px;
+}
+.port1, .port2, .port3, .port4 {
+  width: 190px;
+  border-radius: 10px;
+  padding: 4px;
+ box-shadow: 2px 2px;
+}
+.me {
+  text-align: justify;
+}
+.fb, .email {
+  text-decoration: none;
+  color: black;
+}
+footer {
+  margin: 50px;
+  opacity: 0.5;
+}
+.copy {
+  text-align: center;
+}
+p, h1, a, h2 {
+  font-family: Sans-Serif;
+} 
+
+  .ivo5{
+    width: 230px;
+}
